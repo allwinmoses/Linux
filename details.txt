@@ -1,0 +1,3485 @@
+..:
+total 20
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 12 15:21 CSSDemos/
+drwxr-xr-x 1 allwin.a 1049089 0 Feb 27 15:29 Gittraining/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 12 14:31 HTMLDemos/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 JSPServerlets/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 16:37 Linux/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:16 SpringDemos/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 15:11 training/
+
+../CSSDemos:
+total 137
+-rw-r--r-- 1 allwin.a 1049089 130401 Mar 12 15:30 background.html
+-rw-r--r-- 1 allwin.a 1049089    414 Mar 12 15:08 external.html
+drwxr-xr-x 1 allwin.a 1049089      0 Mar 12 15:20 images/
+-rw-r--r-- 1 allwin.a 1049089    684 Mar 12 15:01 internal.html
+drwxr-xr-x 1 allwin.a 1049089      0 Mar 12 17:11 styles/
+
+../CSSDemos/images:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 3291 Mar 12 10:29 voyalogo.png
+
+../CSSDemos/styles:
+total 29
+-rw-r--r-- 1 allwin.a 1049089  574 Mar 12 16:51 boxdemo.html
+-rw-r--r-- 1 allwin.a 1049089 1025 Mar 12 16:22 classdemo.html
+-rw-r--r-- 1 allwin.a 1049089  121 Mar 12 15:09 demo.css
+-rw-r--r-- 1 allwin.a 1049089  494 Mar 12 16:58 div.html
+-rw-r--r-- 1 allwin.a 1049089  651 Mar 12 17:06 div1.html
+-rw-r--r-- 1 allwin.a 1049089  620 Mar 12 15:37 fontdemo.html
+-rw-r--r-- 1 allwin.a 1049089  740 Mar 12 17:18 navbar.html
+-rw-r--r-- 1 allwin.a 1049089  786 Mar 12 16:33 pseudo.html
+
+../Gittraining:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Feb 27 17:35 Git/
+
+../Gittraining/Git:
+total 5
+drwxr-xr-x 1 allwin.a 1049089  0 Feb 27 16:51 bin/
+-rw-r--r-- 1 allwin.a 1049089 20 Feb 27 17:35 demo.txt
+-rw-r--r-- 1 allwin.a 1049089 57 Feb 27 17:35 demo1.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Feb 27 15:48 demo2.txt
+-rw-r--r-- 1 allwin.a 1049089 28 Feb 27 17:35 demo3.txt
+-rw-r--r-- 1 allwin.a 1049089 17 Feb 27 16:37 demo4.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Feb 27 16:51 hello.jar
+-rw-r--r-- 1 allwin.a 1049089  8 Feb 27 16:57 sample.txt
+
+../Gittraining/Git/bin:
+total 0
+-rw-r--r-- 1 allwin.a 1049089 0 Feb 27 16:51 trial.txt
+
+../HTMLDemos:
+total 44
+-rw-r--r-- 1 allwin.a 1049089   830 Mar 12 14:09 datalistdemo.html
+-rw-r--r-- 1 allwin.a 1049089  1182 Mar 12 11:55 employee.html
+-rw-r--r-- 1 allwin.a 1049089 11100 Mar 12 11:26 firstdemo.html
+-rw-r--r-- 1 allwin.a 1049089  1434 Mar 12 12:24 formdemo.html
+-rw-r--r-- 1 allwin.a 1049089  1239 Mar 12 14:28 forminputs.html
+-rw-r--r-- 1 allwin.a 1049089   870 Mar 12 14:47 formoverride.html
+-rw-r--r-- 1 allwin.a 1049089  1434 Mar 12 12:49 formtable.html
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 12 10:32 images/
+-rw-r--r-- 1 allwin.a 1049089   858 Mar 12 12:50 outdemo.html
+-rw-r--r-- 1 allwin.a 1049089  1036 Mar 12 11:40 tabledemo.html
+
+../HTMLDemos/images:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 3291 Mar 12 10:29 voyalogo.png
+
+../JSPServerlets:
+total 8
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:49 Servers/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 jsp&servletsGit/
+
+../JSPServerlets/Servers:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:49 apache-tomcat-9.0.55 at localhost-config/
+
+../JSPServerlets/Servers/apache-tomcat-9.0.55 at localhost-config:
+total 212
+-rw-r--r-- 1 allwin.a 1049089  13053 Mar 20 16:49 catalina.policy
+-rw-r--r-- 1 allwin.a 1049089   7276 Mar 20 16:49 catalina.properties
+-rw-r--r-- 1 allwin.a 1049089   1398 Mar 20 16:49 context.xml
+-rw-r--r-- 1 allwin.a 1049089   7604 Mar 20 16:50 server.xml
+-rw-r--r-- 1 allwin.a 1049089   2713 Mar 20 16:49 tomcat-users.xml
+-rw-r--r-- 1 allwin.a 1049089 172352 Mar 20 16:49 web.xml
+
+../JSPServerlets/jsp&servletsGit:
+total 36
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 BasicDemo/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 DoctorApp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 DoctorAppMaven/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 EmployeeAppMaven/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 EmployeeMVC/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 FirstDemo/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 JspDemos/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 MovieAppMaven/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 RequestDispatcherDemo/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 12:21 build/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 12:21 src/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/build:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 10:05 classes/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/build/classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 10:05 com/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/build/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 10:05 voya/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/build/classes/com/voya:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 10:05 controllers/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/build/classes/com/voya/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2548 Mar 20 10:05 RegisterServlet.class
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 12:21 main/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 12:33 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 12:22 webapp/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 12:33 com/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 12:33 voya/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src/main/java/com/voya:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 12:33 controllers/
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src/main/java/com/voya/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2071 Mar 13 14:00 RegisterServlet.java
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src/main/webapp:
+total 4
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 13 12:21 META-INF/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 15 10:21 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089 1010 Mar 13 14:22 index.jsp
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 39 Mar 13 12:21 MANIFEST.MF
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src/main/webapp/WEB-INF:
+total 4
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 13 12:21 lib/
+-rw-r--r-- 1 allwin.a 1049089 640 Mar 15 10:21 web.xml
+
+../JSPServerlets/jsp&servletsGit/BasicDemo/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JSPServerlets/jsp&servletsGit/DoctorApp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:55 build/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:55 src/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/build:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 classes/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/build/classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 com/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/build/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 doctorapp/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/build/classes/com/doctorapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 model/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/build/classes/com/doctorapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2405 Mar 19 17:48 Doctor.class
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:55 main/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:56 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:55 webapp/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:56 com/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:56 doctorapp/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src/main/java/com/doctorapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:56 model/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src/main/java/com/doctorapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1667 Mar 14 10:13 Doctor.java
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src/main/webapp:
+total 1
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 13 17:55 META-INF/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 13 17:55 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089 219 Mar 13 17:55 index.jsp
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 39 Mar 13 17:55 MANIFEST.MF
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src/main/webapp/WEB-INF:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:55 lib/
+
+../JSPServerlets/jsp&servletsGit/DoctorApp/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven:
+total 4
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 18 12:01 Users/
+-rw-r--r-- 1 allwin.a 1049089 870 Mar 15 15:18 pom.xml
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 15 12:05 src/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 15 12:05 target/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 allwin.a/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 Allwintraining/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 JSPServerlets/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining/JSPServerlets:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 DoctorAppMaven/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining/JSPServerlets/DoctorAppMaven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 target/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining/JSPServerlets/DoctorAppMaven/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 m2e-wtp/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining/JSPServerlets/DoctorAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 web-resources/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining/JSPServerlets/DoctorAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 META-INF/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining/JSPServerlets/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 maven/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining/JSPServerlets/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 com.doctorapp.dist/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining/JSPServerlets/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.doctorapp.dist:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 12:01 DoctorAppMaven/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/Users/allwin.a/Allwintraining/JSPServerlets/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.doctorapp.dist/DoctorAppMaven:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 293 Mar 18 12:01 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 870 Mar 18 12:01 pom.xml
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:05 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:05 test/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:16 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:05 resources/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 10:13 webapp/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:16 com/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/java/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 11:33 doctor/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/java/com/doctor:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 10:52 controllers/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:35 exception/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:30 model/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:39 repository/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:44 service/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 14:56 util/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/java/com/doctor/controllers:
+total 24
+-rw-r--r-- 1 allwin.a 1049089 2161 Mar 18 11:45 AddServlet.java
+-rw-r--r-- 1 allwin.a 1049089 1175 Mar 18 10:52 DeleteServlet.java
+-rw-r--r-- 1 allwin.a 1049089 1169 Mar 18 10:52 EditServlet.java
+-rw-r--r-- 1 allwin.a 1049089 1687 Mar 18 11:03 LoginServlet.java
+-rw-r--r-- 1 allwin.a 1049089 1175 Mar 18 10:52 SearchServlet.java
+-rw-r--r-- 1 allwin.a 1049089 1175 Mar 18 10:52 UpdateServlet.java
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/java/com/doctor/exception:
+total 2
+-rw-r--r-- 1 allwin.a 1049089 218 Mar 15 12:51 DoctorNotFoundException.java
+-rw-r--r-- 1 allwin.a 1049089 204 Mar 15 12:51 IdNotFoundException.java
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/java/com/doctor/model:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 1727 Mar 15 12:51 Doctor.java
+-rw-r--r-- 1 allwin.a 1049089  435 Mar 15 12:51 Specialization.java
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/java/com/doctor/repository:
+total 16
+-rw-r--r-- 1 allwin.a 1049089 10364 Mar 15 14:57 DoctorRepositoryImp.java
+-rw-r--r-- 1 allwin.a 1049089   716 Mar 15 12:51 IDoctorRepository.java
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/java/com/doctor/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1909 Mar 15 17:32 DoctorServiceImp.java
+-rw-r--r-- 1 allwin.a 1049089  921 Mar 15 17:32 IDoctorService.java
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/java/com/doctor/util:
+total 8
+-rw-r--r-- 1 allwin.a 1049089  585 Mar 15 17:32 DoctorDb.java
+-rw-r--r-- 1 allwin.a 1049089 1136 Mar 15 12:51 Queries.java
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/resources:
+total 0
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/webapp:
+total 14
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 15 15:38 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089 586 Mar 18 11:45 addDoc.jsp
+-rw-r--r-- 1 allwin.a 1049089 336 Mar 18 10:59 admindash.jsp
+-rw-r--r-- 1 allwin.a 1049089 219 Mar 15 12:15 deleteDoc.jsp
+-rw-r--r-- 1 allwin.a 1049089 842 Mar 18 10:20 editDoctor.jsp
+-rw-r--r-- 1 allwin.a 1049089 712 Mar 18 10:20 hello.jsp
+-rw-r--r-- 1 allwin.a 1049089 252 Mar 18 10:59 index.jsp
+-rw-r--r-- 1 allwin.a 1049089 434 Mar 18 11:03 login.jsp
+-rw-r--r-- 1 allwin.a 1049089 219 Mar 15 16:26 updateDoctor.jsp
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/webapp/WEB-INF:
+total 4
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 15 15:38 lib/
+-rw-r--r-- 1 allwin.a 1049089 3152 Mar 15 12:25 web.xml
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:05 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:05 resources/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/test/java:
+total 0
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/src/test/resources:
+total 0
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 11:42 m2e-wtp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 12:05 test-classes/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 com/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/classes/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 doctor/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/classes/com/doctor:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 controllers/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 exception/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 model/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 repository/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 service/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 util/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/classes/com/doctor/controllers:
+total 24
+-rw-r--r-- 1 allwin.a 1049089 2332 Mar 19 17:48 AddServlet.class
+-rw-r--r-- 1 allwin.a 1049089 1193 Mar 19 17:48 DeleteServlet.class
+-rw-r--r-- 1 allwin.a 1049089 1187 Mar 19 17:48 EditServlet.class
+-rw-r--r-- 1 allwin.a 1049089 1820 Mar 19 17:48 LoginServlet.class
+-rw-r--r-- 1 allwin.a 1049089 1193 Mar 19 17:48 SearchServlet.class
+-rw-r--r-- 1 allwin.a 1049089 1193 Mar 19 17:48 UpdateServlet.class
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/classes/com/doctor/exception:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 544 Mar 19 17:48 DoctorNotFoundException.class
+-rw-r--r-- 1 allwin.a 1049089 528 Mar 19 17:48 IdNotFoundException.class
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/classes/com/doctor/model:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2399 Mar 19 17:48 Doctor.class
+-rw-r--r-- 1 allwin.a 1049089 1597 Mar 19 17:48 Specialization.class
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/classes/com/doctor/repository:
+total 16
+-rw-r--r-- 1 allwin.a 1049089 10376 Mar 19 17:48 DoctorRepositoryImp.class
+-rw-r--r-- 1 allwin.a 1049089  1083 Mar 19 17:48 IDoctorRepository.class
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/classes/com/doctor/service:
+total 12
+-rw-r--r-- 1 allwin.a 1049089 4326 Mar 19 17:48 DoctorServiceImp.class
+-rw-r--r-- 1 allwin.a 1049089 1736 Mar 19 17:48 IDoctorService.class
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/classes/com/doctor/util:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1158 Mar 19 17:48 DoctorDb.class
+-rw-r--r-- 1 allwin.a 1049089 1236 Mar 19 17:48 Queries.class
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 11:42 web-resources/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 11:42 META-INF/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 11:42 maven/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 11:42 com.doctorapp.dist/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.doctorapp.dist:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 11:42 DoctorAppMaven/
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.doctorapp.dist/DoctorAppMaven:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 293 Mar 20 10:05 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 870 Mar 20 10:05 pom.xml
+
+../JSPServerlets/jsp&servletsGit/DoctorAppMaven/target/test-classes:
+total 0
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 567 Mar 14 14:20 pom.xml
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 14 14:05 src/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 14 14:05 target/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 14:05 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 14:05 test/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/main:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 15:29 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 14:05 resources/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 11:22 webapp/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 15:29 com/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 15:37 employeeapp/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/main/java/com/employeeapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 15:29 controllers/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 15:38 model/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/main/java/com/employeeapp/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2199 Mar 15 11:35 EmpServlet.java
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/main/java/com/employeeapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1194 Mar 14 15:52 Employee.java
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/main/resources:
+total 0
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/main/webapp:
+total 13
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 14 15:56 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089 504 Mar 15 11:38 empexlang.jsp
+-rw-r--r-- 1 allwin.a 1049089 498 Mar 15 10:55 empscript.jsp
+-rw-r--r-- 1 allwin.a 1049089 540 Mar 14 15:52 empsuccess.jsp
+-rw-r--r-- 1 allwin.a 1049089 524 Mar 14 15:56 index.jsp
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/main/webapp/WEB-INF:
+total 0
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 14:05 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 14:05 resources/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/test/java:
+total 0
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/src/test/resources:
+total 0
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 10:55 m2e-wtp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 14:05 test-classes/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 com/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 employeeapp/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/classes/com/employeeapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 controllers/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 model/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/classes/com/employeeapp/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2600 Mar 19 17:48 EmpServlet.class
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/classes/com/employeeapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1867 Mar 19 17:48 Employee.class
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 10:55 web-resources/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 10:55 META-INF/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 10:55 maven/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 10:55 com.empapp.dist/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.empapp.dist:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 10:55 EmployeeAppMaven/
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.empapp.dist/EmployeeAppMaven:
+total 2
+-rw-r--r-- 1 allwin.a 1049089 296 Mar 20 10:05 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 567 Mar 20 10:05 pom.xml
+
+../JSPServerlets/jsp&servletsGit/EmployeeAppMaven/target/test-classes:
+total 0
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 13:52 build/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 13:52 src/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/build:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 classes/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/build/classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 com/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/build/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 emp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 empapp/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/build/classes/com/emp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 controller/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/build/classes/com/emp/controller:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2284 Mar 19 17:48 EmployeeServlet.class
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/build/classes/com/empapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 model/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/build/classes/com/empapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2110 Mar 19 17:48 Employee.class
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 13:52 main/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:05 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:26 webapp/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:10 com/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:10 emp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:05 empapp/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/java/com/emp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:12 controller/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/java/com/emp/controller:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2003 Mar 13 17:49 EmployeeServlet.java
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/java/com/empapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 17:05 model/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/java/com/empapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1436 Mar 13 17:42 Employee.java
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/webapp:
+total 8
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 13 13:52 META-INF/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 13 13:52 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089 598 Mar 13 17:45 empsuccess.jsp
+-rw-r--r-- 1 allwin.a 1049089 698 Mar 13 17:42 index.jsp
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 39 Mar 13 13:52 MANIFEST.MF
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/webapp/WEB-INF:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 13:52 lib/
+
+../JSPServerlets/jsp&servletsGit/EmployeeMVC/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JSPServerlets/jsp&servletsGit/FirstDemo:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 11:42 build/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 11:42 src/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/build:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 classes/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/build/classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 com/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/build/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 voya/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/build/classes/com/voya:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 controllers/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/build/classes/com/voya/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1747 Mar 19 17:48 LoginServlet.class
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 11:42 main/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 11:56 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 11:48 webapp/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 11:56 com/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 11:56 voya/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src/main/java/com/voya:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 11:56 controllers/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src/main/java/com/voya/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1573 Mar 13 12:19 LoginServlet.java
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src/main/webapp:
+total 1
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 13 11:42 META-INF/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 13 11:42 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089 392 Mar 13 12:23 index.jsp
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 39 Mar 13 11:42 MANIFEST.MF
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src/main/webapp/WEB-INF:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 11:42 lib/
+
+../JSPServerlets/jsp&servletsGit/FirstDemo/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JSPServerlets/jsp&servletsGit/JspDemos:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 16:30 build/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 16:30 src/
+
+../JSPServerlets/jsp&servletsGit/JspDemos/build:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 16:30 classes/
+
+../JSPServerlets/jsp&servletsGit/JspDemos/build/classes:
+total 0
+
+../JSPServerlets/jsp&servletsGit/JspDemos/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 16:30 main/
+
+../JSPServerlets/jsp&servletsGit/JspDemos/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 16:30 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 18 11:35 webapp/
+
+../JSPServerlets/jsp&servletsGit/JspDemos/src/main/java:
+total 0
+
+../JSPServerlets/jsp&servletsGit/JspDemos/src/main/webapp:
+total 6
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 14 16:30 META-INF/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 15 11:43 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089  434 Mar 18 11:43 custom.jsp
+-rw-r--r-- 1 allwin.a 1049089  265 Mar 15 10:01 errorhandler.jsp
+-rw-r--r-- 1 allwin.a 1049089 1853 Mar 15 12:03 hello.jsp
+
+../JSPServerlets/jsp&servletsGit/JspDemos/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 39 Mar 14 16:30 MANIFEST.MF
+
+../JSPServerlets/jsp&servletsGit/JspDemos/src/main/webapp/WEB-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 219 Mar 15 11:43 expexlang.jsp
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 14 16:30 lib/
+
+../JSPServerlets/jsp&servletsGit/JspDemos/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 874 Mar 15 12:12 pom.xml
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 14 10:10 src/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 14 10:10 target/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 10:10 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 10:10 test/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 10:19 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 10:10 resources/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 12:01 webapp/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 10:19 com/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 11:33 movieapp/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/main/java/com/movieapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 11:21 controllers/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 11:33 service/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/main/java/com/movieapp/controllers:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2007 Mar 14 15:00 LoginServlet.java
+-rw-r--r-- 1 allwin.a 1049089 2027 Mar 14 15:11 MovieServlet.java
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/main/java/com/movieapp/service:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 593 Mar 14 12:33 MovieDetails.java
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/main/resources:
+total 0
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/main/webapp:
+total 6
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 14 10:20 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089 559 Mar 14 14:59 final.jsp
+-rw-r--r-- 1 allwin.a 1049089 413 Mar 14 10:50 index.jsp
+-rw-r--r-- 1 allwin.a 1049089 800 Mar 14 15:06 success.jsp
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/main/webapp/WEB-INF:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1369 Mar 14 11:21 web.xml
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 10:10 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 10:10 resources/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/test/java:
+total 0
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/src/test/resources:
+total 0
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 12:34 m2e-wtp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 10:10 test-classes/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 com/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 movieapp/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/classes/com/movieapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 controllers/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 service/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/classes/com/movieapp/controllers:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2724 Mar 19 17:48 LoginServlet.class
+-rw-r--r-- 1 allwin.a 1049089 2805 Mar 19 17:48 MovieServlet.class
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/classes/com/movieapp/service:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1170 Mar 19 17:48 MovieDetails.class
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 12:34 web-resources/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 12:34 META-INF/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 12:34 maven/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 12:34 com.movieapp.dist/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.movieapp.dist:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 14 12:34 MovieAppMaven/
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.movieapp.dist/MovieAppMaven:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 289 Mar 20 10:05 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 874 Mar 20 10:05 pom.xml
+
+../JSPServerlets/jsp&servletsGit/MovieAppMaven/target/test-classes:
+total 0
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 14:17 build/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 14:17 src/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/build:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 classes/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/build/classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 com/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/build/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 voya/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/build/classes/com/voya:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:48 controllers/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/build/classes/com/voya/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2478 Mar 19 17:48 RegisterServlet.class
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 14:17 main/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 14:22 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 15 10:09 webapp/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 14:22 com/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 14:22 voya/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src/main/java/com/voya:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 13 14:22 controllers/
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src/main/java/com/voya/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2273 Mar 15 10:12 RegisterServlet.java
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src/main/webapp:
+total 9
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 13 14:17 META-INF/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 15 10:18 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089  247 Mar 15 10:13 errorhandler.jsp
+-rw-r--r-- 1 allwin.a 1049089 1031 Mar 13 17:52 index.jsp
+-rw-r--r-- 1 allwin.a 1049089  989 Mar 15 10:13 success.jsp
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 39 Mar 13 14:17 MANIFEST.MF
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src/main/webapp/WEB-INF:
+total 1
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 13 14:17 lib/
+-rw-r--r-- 1 allwin.a 1049089 415 Mar 15 10:28 web.xml
+
+../JSPServerlets/jsp&servletsGit/RequestDispatcherDemo/src/main/webapp/WEB-INF/lib:
+total 0
+
+../Linux:
+total 8
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 25 14:41 backend/
+-rw-r--r-- 1 allwin.a 1049089 105 Mar 25 12:58 demo3.txt
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 25 15:01 demos/
+-rw-r--r-- 1 allwin.a 1049089   0 Mar 25 16:37 details.txt
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 25 14:41 frontend/
+-rw-r--r-- 1 allwin.a 1049089  40 Mar 25 10:33 hemo1.txt
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 25 10:31 my apps/
+-rw-r--r-- 1 allwin.a 1049089 505 Mar 25 12:11 out.txt
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 25 12:49 programs/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 25 14:44 training/
+-rw-r--r-- 1 allwin.a 1049089 105 Mar 25 12:58 trial.txt
+-rw-r--r-- 1 allwin.a 1049089   0 Mar 25 12:20 {check}
+
+../Linux/backend:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 14:41 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 14:41 spring/
+
+../Linux/backend/java:
+total 0
+
+../Linux/backend/spring:
+total 0
+
+../Linux/demos:
+total 3
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 25 14:55 -/
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 25 10:26 examples/
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 25 14:01 samples/
+-rw-r--r-- 1 allwin.a 1049089 27 Mar 25 14:46 test1.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Mar 25 14:45 test10.txt
+-rw-r--r-- 1 allwin.a 1049089 27 Mar 25 14:56 test2.txt
+-rw-r--r-- 1 allwin.a 1049089 14 Mar 25 14:49 test3.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Mar 25 14:45 test4.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Mar 25 15:01 test5.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Mar 25 14:45 test6.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Mar 25 14:45 test7.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Mar 25 14:45 test8.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Mar 25 14:45 test9.txt
+-rw-r--r-- 1 allwin.a 1049089  0 Mar 25 15:01 text5.txt
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 25 14:00 trial/
+
+../Linux/demos/-:
+total 0
+
+../Linux/demos/examples:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 10:26 trial/
+
+../Linux/demos/examples/trial:
+total 0
+
+../Linux/demos/samples:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 14:01 trial/
+
+../Linux/demos/samples/trial:
+total 0
+
+../Linux/demos/trial:
+total 0
+
+../Linux/frontend:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 14:41 angular/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 14:41 react/
+
+../Linux/frontend/angular:
+total 0
+
+../Linux/frontend/react:
+total 0
+
+../Linux/my apps:
+total 0
+
+../Linux/programs:
+total 0
+
+../Linux/training:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 14:40 demos/
+-rw-r--r-- 1 allwin.a 1049089 0 Mar 25 14:44 trial1.txt
+-rw-r--r-- 1 allwin.a 1049089 0 Mar 25 14:44 trial2.txt
+-rw-r--r-- 1 allwin.a 1049089 0 Mar 25 14:44 trial3.txt
+
+../Linux/training/demos:
+total 0
+
+../SpringDemos:
+total 52
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:18 spring-bookapp-basic/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:21 spring-bookapp-jdbc/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 spring-bookapp-mybatis/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:58 spring-boot-autowire/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:13 spring-doctorApp-jdbc/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:55 spring-greetapp-rest/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:39 spring-insuranceapp-restmybatis/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:21 spring-mvc-basic/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:25 spring-mvc-doctorApplication/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:31 spring-mvc-doctorapp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 10:34 spring-productapp-mybatis/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:18 spring-security-inmem/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 spring-voya/
+
+../SpringDemos/spring-bookapp-basic:
+total 28
+-rw-r--r-- 1 allwin.a 1049089   607 Mar 19 12:17 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 19 12:17 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 19 12:17 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1390 Mar 19 12:17 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 12:17 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 12:18 target/
+
+../SpringDemos/spring-bookapp-basic/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:17 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:17 test/
+
+../SpringDemos/spring-bookapp-basic/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:17 resources/
+
+../SpringDemos/spring-bookapp-basic/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 com/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:17 combookapp/
+
+../SpringDemos/spring-bookapp-basic/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 BookApp/
+
+../SpringDemos/spring-bookapp-basic/src/main/java/com/BookApp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 client/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 exceptions/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 model/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 service/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 util/
+
+../SpringDemos/spring-bookapp-basic/src/main/java/com/BookApp/client:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2247 Mar 19 14:35 Client.java
+
+../SpringDemos/spring-bookapp-basic/src/main/java/com/BookApp/exceptions:
+total 2
+-rw-r--r-- 1 allwin.a 1049089 225 Mar  6 18:07 BookNotFoundException.java
+-rw-r--r-- 1 allwin.a 1049089 219 Mar  6 18:07 IdNotFoundException.java
+
+../SpringDemos/spring-bookapp-basic/src/main/java/com/BookApp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1562 Mar  6 18:39 Book.java
+
+../SpringDemos/spring-bookapp-basic/src/main/java/com/BookApp/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2861 Mar 19 12:52 BookServiceImpl.java
+-rw-r--r-- 1 allwin.a 1049089  671 Mar  6 18:07 IBookService.java
+
+../SpringDemos/spring-bookapp-basic/src/main/java/com/BookApp/util:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 582 Mar 19 12:52 BookDetails.java
+
+../SpringDemos/spring-bookapp-basic/src/main/java/combookapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2497 Mar 19 12:52 SpringBookappBasicApplication.java
+
+../SpringDemos/spring-bookapp-basic/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 45 Mar 19 12:17 application.properties
+
+../SpringDemos/spring-bookapp-basic/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:17 java/
+
+../SpringDemos/spring-bookapp-basic/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:17 combookapp/
+
+../SpringDemos/spring-bookapp-basic/src/test/java/combookapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 214 Mar 19 12:17 SpringBookappBasicApplicationTests.java
+
+../SpringDemos/spring-bookapp-basic/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:18 test-classes/
+
+../SpringDemos/spring-bookapp-basic/target/classes:
+total 1
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 19 12:18 META-INF/
+-rw-r--r-- 1 allwin.a 1049089 45 Mar 19 12:18 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 19 12:29 com/
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 19 12:18 combookapp/
+
+../SpringDemos/spring-bookapp-basic/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 172 Mar 22 14:18 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 12:18 maven/
+
+../SpringDemos/spring-bookapp-basic/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:18 com.example/
+
+../SpringDemos/spring-bookapp-basic/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:18 spring-bookapp-basic/
+
+../SpringDemos/spring-bookapp-basic/target/classes/META-INF/maven/com.example/spring-bookapp-basic:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  285 Mar 22 14:18 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1390 Mar 22 14:18 pom.xml
+
+../SpringDemos/spring-bookapp-basic/target/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 BookApp/
+
+../SpringDemos/spring-bookapp-basic/target/classes/com/BookApp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 client/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 exceptions/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 model/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 service/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:29 util/
+
+../SpringDemos/spring-bookapp-basic/target/classes/com/BookApp/client:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 603 Mar 19 14:35 Client.class
+
+../SpringDemos/spring-bookapp-basic/target/classes/com/BookApp/exceptions:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 512 Mar 19 12:29 BookNotFoundException.class
+-rw-r--r-- 1 allwin.a 1049089 506 Mar 19 12:29 IdNotFoundException.class
+
+../SpringDemos/spring-bookapp-basic/target/classes/com/BookApp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2236 Mar 19 12:29 Book.class
+
+../SpringDemos/spring-bookapp-basic/target/classes/com/BookApp/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 4001 Mar 19 12:52 BookServiceImpl.class
+-rw-r--r-- 1 allwin.a 1049089 1026 Mar 19 12:29 IBookService.class
+
+../SpringDemos/spring-bookapp-basic/target/classes/com/BookApp/util:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1111 Mar 19 12:52 BookDetails.class
+
+../SpringDemos/spring-bookapp-basic/target/classes/combookapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 3514 Mar 19 12:52 SpringBookappBasicApplication.class
+
+../SpringDemos/spring-bookapp-basic/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 12:18 combookapp/
+
+../SpringDemos/spring-bookapp-basic/target/test-classes/combookapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 561 Mar 19 12:18 SpringBookappBasicApplicationTests.class
+
+../SpringDemos/spring-bookapp-jdbc:
+total 28
+-rw-r--r-- 1 allwin.a 1049089   814 Mar 19 14:20 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 19 14:20 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 19 14:20 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1533 Mar 19 14:20 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 14:20 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 14:21 target/
+
+../SpringDemos/spring-bookapp-jdbc/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:20 test/
+
+../SpringDemos/spring-bookapp-jdbc/src/main:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:14 com.example/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:20 resources/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example:
+total 10
+-rw-r--r-- 1 allwin.a 1049089  469 Mar 19 16:32 Book.java
+-rw-r--r-- 1 allwin.a 1049089 1164 Mar 19 16:32 BookMapper.java
+-rw-r--r-- 1 allwin.a 1049089  252 Mar 19 16:32 BookRepository.java
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 14:20 com/
+-rw-r--r-- 1 allwin.a 1049089  794 Mar  7 19:39 pom.xml
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 14:25 src/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 16:32 bookapp/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/com/bookapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 562 Mar 19 16:32 SpringBookappJdbcApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 16:33 repo/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/com/bookapp/repo:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 602 Mar 19 18:18 IBookRepository.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:05 BookApp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:25 main/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src/BookApp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:32 client/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:32 exceptions/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src/BookApp/client:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2263 Mar 19 15:05 Client.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src/BookApp/exceptions:
+total 2
+-rw-r--r-- 1 allwin.a 1049089 225 Mar 19 15:05 BookNotFoundException.java
+-rw-r--r-- 1 allwin.a 1049089 219 Mar 19 15:05 IdNotFoundException.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:25 java/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:25 BookApp/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src/main/java/BookApp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:32 model/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:32 service/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:32 util/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src/main/java/BookApp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1558 Mar  7 19:38 Book.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src/main/java/BookApp/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1276 Mar 19 16:32 BookServiceImpl.java
+-rw-r--r-- 1 allwin.a 1049089  657 Mar 19 16:32 IBookService.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/com.example/src/main/java/BookApp/util:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 550 Mar  7 19:38 BookDetails.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 202 Mar 19 16:32 application.properties
+
+../SpringDemos/spring-bookapp-jdbc/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:20 java/
+
+../SpringDemos/spring-bookapp-jdbc/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:20 com/
+
+../SpringDemos/spring-bookapp-jdbc/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 14:20 bookapp/
+
+../SpringDemos/spring-bookapp-jdbc/src/test/java/com/bookapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 214 Mar 19 14:20 SpringBookappJdbcApplicationTests.java
+
+../SpringDemos/spring-bookapp-jdbc/target:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 16:32 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 test-classes/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes:
+total 17
+-rw-r--r-- 1 allwin.a 1049089  799 Mar 19 16:32 Book.class
+-rw-r--r-- 1 allwin.a 1049089 2087 Mar 19 16:32 BookMapper.class
+-rw-r--r-- 1 allwin.a 1049089  961 Mar 19 16:32 BookRepositoryImpl.class
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 15:08 META-INF/
+-rw-r--r-- 1 allwin.a 1049089  202 Mar 19 16:32 application.properties
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 15:08 com/
+-rw-r--r-- 1 allwin.a 1049089  794 Mar  7 19:39 pom.xml
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 15:08 src/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 171 Mar 22 14:18 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 15:08 maven/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 com.example/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 spring-bookapp-jdbc/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/META-INF/maven/com.example/spring-bookapp-jdbc:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  282 Mar 22 14:18 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1533 Mar 22 14:18 pom.xml
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 16:32 bookapp/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com/bookapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1094 Mar 19 16:32 SpringBookappJdbcApplication.class
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 16:33 repo/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com/bookapp/repo:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1539 Mar 19 18:18 IBookRepository.class
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 BookApp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 main/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src/BookApp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 client/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 exceptions/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src/BookApp/client:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1272 Mar 19 15:08 Client.class
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src/BookApp/exceptions:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 512 Mar 19 15:08 BookNotFoundException.class
+-rw-r--r-- 1 allwin.a 1049089 506 Mar 19 15:08 IdNotFoundException.class
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 java/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 BookApp/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src/main/java/BookApp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 model/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 service/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 util/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src/main/java/BookApp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1846 Mar 19 15:08 Book.class
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src/main/java/BookApp/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 3387 Mar 19 16:32 BookServiceImpl.class
+-rw-r--r-- 1 allwin.a 1049089 1855 Mar 19 16:32 IBookService.class
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/src/main/java/BookApp/util:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1219 Mar 19 15:08 BookDetails.class
+
+../SpringDemos/spring-bookapp-jdbc/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 com/
+
+../SpringDemos/spring-bookapp-jdbc/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 15:08 bookapp/
+
+../SpringDemos/spring-bookapp-jdbc/target/test-classes/com/bookapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 560 Mar 19 15:08 SpringBookappJdbcApplicationTests.class
+
+../SpringDemos/spring-bookapp-mybatis:
+total 28
+-rw-r--r-- 1 allwin.a 1049089   592 Mar 21 13:53 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 21 13:53 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 21 13:53 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1529 Mar 21 13:53 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 21 13:53 src/
+
+../SpringDemos/spring-bookapp-mybatis/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 test/
+
+../SpringDemos/spring-bookapp-mybatis/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 resources/
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 com/
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 bookapp/
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java/com/bookapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 332 Mar 21 13:53 SpringBookappMybatisApplication.java
+
+../SpringDemos/spring-bookapp-mybatis/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 47 Mar 21 13:53 application.properties
+
+../SpringDemos/spring-bookapp-mybatis/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 java/
+
+../SpringDemos/spring-bookapp-mybatis/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 com/
+
+../SpringDemos/spring-bookapp-mybatis/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:53 bookapp/
+
+../SpringDemos/spring-bookapp-mybatis/src/test/java/com/bookapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 217 Mar 21 13:53 SpringBookappMybatisApplicationTests.java
+
+../SpringDemos/spring-boot-autowire:
+total 46
+-rw-r--r-- 1 allwin.a 1049089   429 Mar 19 10:57 HELP.md
+-rw-r--r-- 1 allwin.a 1049089   535 Mar 19 10:51 build.gradle
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 10:51 gradle/
+-rwxr-xr-x 1 allwin.a 1049089  8692 Mar 19 10:51 gradlew*
+-rw-r--r-- 1 allwin.a 1049089  2868 Mar 19 10:51 gradlew.bat
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 19 10:57 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 19 10:57 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1390 Mar 19 10:57 pom.xml
+-rw-r--r-- 1 allwin.a 1049089    42 Mar 19 10:51 settings.gradle
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 10:51 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 10:58 target/
+
+../SpringDemos/spring-boot-autowire/gradle:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:51 wrapper/
+
+../SpringDemos/spring-boot-autowire/gradle/wrapper:
+total 48
+-rw-r--r-- 1 allwin.a 1049089 43462 Mar 19 10:51 gradle-wrapper.jar
+-rw-r--r-- 1 allwin.a 1049089   857 Mar 19 10:51 gradle-wrapper.properties
+
+../SpringDemos/spring-boot-autowire/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:51 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:51 test/
+
+../SpringDemos/spring-boot-autowire/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:51 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:57 resources/
+
+../SpringDemos/spring-boot-autowire/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 11:26 com/
+
+../SpringDemos/spring-boot-autowire/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 11:24 example/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:58 spring/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 11:26 voya/
+
+../SpringDemos/spring-boot-autowire/src/main/java/com/example:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 898 Mar 19 12:08 SpringBootAutowireApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 11:44 javabased/
+
+../SpringDemos/spring-boot-autowire/src/main/java/com/example/javabased:
+total 12
+-rw-r--r-- 1 allwin.a 1049089 611 Mar 19 12:09 AppConfig.java
+-rw-r--r-- 1 allwin.a 1049089 311 Mar 19 12:08 Chinese.java
+-rw-r--r-- 1 allwin.a 1049089 189 Mar 19 12:08 IFoodmenu.java
+-rw-r--r-- 1 allwin.a 1049089 311 Mar 19 12:08 Indian.java
+-rw-r--r-- 1 allwin.a 1049089 312 Mar 19 12:08 Italian.java
+-rw-r--r-- 1 allwin.a 1049089 762 Mar 19 12:08 Waiter.java
+
+../SpringDemos/spring-boot-autowire/src/main/java/com/spring:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:58 auto/
+
+../SpringDemos/spring-boot-autowire/src/main/java/com/spring/auto:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 367 Mar 18 18:08 Rectangle.java
+-rw-r--r-- 1 allwin.a 1049089  88 Mar 18 16:38 Shape.java
+-rw-r--r-- 1 allwin.a 1049089 712 Mar 19 11:05 ShapeFactory.java
+-rw-r--r-- 1 allwin.a 1049089 290 Mar 18 17:19 Square.java
+-rw-r--r-- 1 allwin.a 1049089 349 Mar 18 17:19 Triangle.java
+
+../SpringDemos/spring-boot-autowire/src/main/java/com/voya:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 11:26 food/
+
+../SpringDemos/spring-boot-autowire/src/main/java/com/voya/food:
+total 12
+-rw-r--r-- 1 allwin.a 1049089 313 Mar 18 19:50 Chinese.java
+-rw-r--r-- 1 allwin.a 1049089 489 Mar 18 19:50 Customer.java
+-rw-r--r-- 1 allwin.a 1049089 115 Mar 18 19:43 IFoodmenu.java
+-rw-r--r-- 1 allwin.a 1049089 313 Mar 18 19:50 Indian.java
+-rw-r--r-- 1 allwin.a 1049089 314 Mar 18 19:50 Italian.java
+-rw-r--r-- 1 allwin.a 1049089 625 Mar 19 11:25 Waiter.java
+
+../SpringDemos/spring-boot-autowire/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 45 Mar 19 10:57 application.properties
+
+../SpringDemos/spring-boot-autowire/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:51 java/
+
+../SpringDemos/spring-boot-autowire/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:51 com/
+
+../SpringDemos/spring-boot-autowire/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:57 example/
+
+../SpringDemos/spring-boot-autowire/src/test/java/com/example:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 215 Mar 19 10:57 SpringBootAutowireApplicationTests.java
+
+../SpringDemos/spring-boot-autowire/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:58 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:58 test-classes/
+
+../SpringDemos/spring-boot-autowire/target/classes:
+total 1
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 19 10:58 META-INF/
+-rw-r--r-- 1 allwin.a 1049089 45 Mar 19 10:58 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 19 11:26 com/
+
+../SpringDemos/spring-boot-autowire/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 172 Mar 22 14:18 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 10:58 maven/
+
+../SpringDemos/spring-boot-autowire/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:58 com.example/
+
+../SpringDemos/spring-boot-autowire/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:58 spring-boot-autowire/
+
+../SpringDemos/spring-boot-autowire/target/classes/META-INF/maven/com.example/spring-boot-autowire:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  285 Mar 22 14:18 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1390 Mar 22 14:18 pom.xml
+
+../SpringDemos/spring-boot-autowire/target/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 11:24 example/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 11:26 spring/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 11:26 voya/
+
+../SpringDemos/spring-boot-autowire/target/classes/com/example:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1840 Mar 19 12:08 SpringBootAutowireApplication.class
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 11:44 javabased/
+
+../SpringDemos/spring-boot-autowire/target/classes/com/example/javabased:
+total 21
+-rw-r--r-- 1 allwin.a 1049089 1294 Mar 19 12:09 AppConfig.class
+-rw-r--r-- 1 allwin.a 1049089  624 Mar 19 12:08 Chinese.class
+-rw-r--r-- 1 allwin.a 1049089  309 Mar 19 12:08 IFoodmenu.class
+-rw-r--r-- 1 allwin.a 1049089  621 Mar 19 12:08 Indian.class
+-rw-r--r-- 1 allwin.a 1049089  622 Mar 19 12:08 Italian.class
+-rw-r--r-- 1 allwin.a 1049089 1393 Mar 19 12:08 Waiter.class
+
+../SpringDemos/spring-boot-autowire/target/classes/com/spring:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 11:26 auto/
+
+../SpringDemos/spring-boot-autowire/target/classes/com/spring/auto:
+total 17
+-rw-r--r-- 1 allwin.a 1049089  940 Mar 19 11:26 Rectangle.class
+-rw-r--r-- 1 allwin.a 1049089  172 Mar 19 11:26 Shape.class
+-rw-r--r-- 1 allwin.a 1049089 1186 Mar 19 11:26 ShapeFactory.class
+-rw-r--r-- 1 allwin.a 1049089  862 Mar 19 11:26 Square.class
+-rw-r--r-- 1 allwin.a 1049089  850 Mar 19 11:26 Triangle.class
+
+../SpringDemos/spring-boot-autowire/target/classes/com/voya:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 11:26 food/
+
+../SpringDemos/spring-boot-autowire/target/classes/com/voya/food:
+total 21
+-rw-r--r-- 1 allwin.a 1049089  685 Mar 19 11:26 Chinese.class
+-rw-r--r-- 1 allwin.a 1049089 1189 Mar 19 11:26 Customer.class
+-rw-r--r-- 1 allwin.a 1049089  215 Mar 19 11:26 IFoodmenu.class
+-rw-r--r-- 1 allwin.a 1049089  682 Mar 19 11:26 Indian.class
+-rw-r--r-- 1 allwin.a 1049089  683 Mar 19 11:26 Italian.class
+-rw-r--r-- 1 allwin.a 1049089 1214 Mar 19 11:26 Waiter.class
+
+../SpringDemos/spring-boot-autowire/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:58 com/
+
+../SpringDemos/spring-boot-autowire/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 10:58 example/
+
+../SpringDemos/spring-boot-autowire/target/test-classes/com/example:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 563 Mar 19 10:58 SpringBootAutowireApplicationTests.class
+
+../SpringDemos/spring-doctorApp-jdbc:
+total 28
+-rw-r--r-- 1 allwin.a 1049089   814 Mar 19 18:12 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 19 18:12 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 19 18:12 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1537 Mar 19 18:12 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 18:12 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 18:13 target/
+
+../SpringDemos/spring-doctorApp-jdbc/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:12 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:12 test/
+
+../SpringDemos/spring-doctorApp-jdbc/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:20 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:12 resources/
+
+../SpringDemos/spring-doctorApp-jdbc/src/main/java:
+total 4
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 19:51 com/
+-rw-r--r-- 1 allwin.a 1049089 884 Mar  8 10:48 pom.xml
+
+../SpringDemos/spring-doctorApp-jdbc/src/main/java/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 19:51 doctor/
+
+../SpringDemos/spring-doctorApp-jdbc/src/main/java/com/doctor:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 803 Mar 20 09:48 SpringDoctorAppJdbcApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 18:16 exceptions/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 18:16 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 18:40 repository/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 18:16 service/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 18:16 util/
+
+../SpringDemos/spring-doctorApp-jdbc/src/main/java/com/doctor/exceptions:
+total 2
+-rw-r--r-- 1 allwin.a 1049089 231 Mar 19 18:19 DoctorNotFoundException.java
+-rw-r--r-- 1 allwin.a 1049089 217 Mar 19 18:19 IdNotFoundException.java
+
+../SpringDemos/spring-doctorApp-jdbc/src/main/java/com/doctor/model:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 2392 Mar 19 18:19 Doctor.java
+-rw-r--r-- 1 allwin.a 1049089  434 Mar 19 18:19 Specialization.java
+
+../SpringDemos/spring-doctorApp-jdbc/src/main/java/com/doctor/repository:
+total 12
+-rw-r--r-- 1 allwin.a 1049089  710 Mar 20 09:54 DoctorMapper.java
+-rw-r--r-- 1 allwin.a 1049089 3332 Mar 20 09:47 DoctorRepositoryImpl.java
+-rw-r--r-- 1 allwin.a 1049089  704 Mar 19 18:39 IDoctorRepository.java
+
+../SpringDemos/spring-doctorApp-jdbc/src/main/java/com/doctor/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2528 Mar 19 19:51 DoctorServiceImpl.java
+-rw-r--r-- 1 allwin.a 1049089 1034 Mar 19 18:39 IDoctorService.java
+
+../SpringDemos/spring-doctorApp-jdbc/src/main/java/com/doctor/util:
+total 8
+-rw-r--r-- 1 allwin.a 1049089  605 Mar 19 18:20 DoctorDb.java
+-rw-r--r-- 1 allwin.a 1049089 1234 Mar 20 09:54 Queries.java
+
+../SpringDemos/spring-doctorApp-jdbc/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 205 Mar 19 19:53 application.properties
+
+../SpringDemos/spring-doctorApp-jdbc/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:12 java/
+
+../SpringDemos/spring-doctorApp-jdbc/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:12 com/
+
+../SpringDemos/spring-doctorApp-jdbc/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:12 example/
+
+../SpringDemos/spring-doctorApp-jdbc/src/test/java/com/example:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 216 Mar 19 18:12 SpringDoctorAppJdbcApplicationTests.java
+
+../SpringDemos/spring-doctorApp-jdbc/target:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:20 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:13 test-classes/
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes:
+total 5
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 18:13 META-INF/
+-rw-r--r-- 1 allwin.a 1049089 205 Mar 19 19:53 application.properties
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 19:51 com/
+-rw-r--r-- 1 allwin.a 1049089 884 Mar  8 10:48 pom.xml
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 173 Mar 22 14:18 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 19 18:13 maven/
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:13 com.example/
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:13 spring-doctorApp-jdbc/
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/META-INF/maven/com.example/spring-doctorApp-jdbc:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  288 Mar 22 14:18 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1537 Mar 22 14:18 pom.xml
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 19:51 doctor/
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/com/doctor:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1385 Mar 20 09:48 SpringDoctorAppJdbcApplication.class
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 18:19 exceptions/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 18:19 model/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 18:40 repository/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 18:20 service/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 19 18:20 util/
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/com/doctor/exceptions:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 516 Mar 19 18:19 DoctorNotFoundException.class
+-rw-r--r-- 1 allwin.a 1049089 504 Mar 19 18:19 IdNotFoundException.class
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/com/doctor/model:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 3078 Mar 19 18:19 Doctor.class
+-rw-r--r-- 1 allwin.a 1049089 1682 Mar 19 18:19 Specialization.class
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/com/doctor/repository:
+total 16
+-rw-r--r-- 1 allwin.a 1049089 1571 Mar 20 09:54 DoctorMapper.class
+-rw-r--r-- 1 allwin.a 1049089 4468 Mar 20 09:47 DoctorRepositoryImpl.class
+-rw-r--r-- 1 allwin.a 1049089 1060 Mar 19 18:39 IDoctorRepository.class
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/com/doctor/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2743 Mar 19 19:51 DoctorServiceImpl.class
+-rw-r--r-- 1 allwin.a 1049089 1215 Mar 19 18:39 IDoctorService.class
+
+../SpringDemos/spring-doctorApp-jdbc/target/classes/com/doctor/util:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1077 Mar 19 18:20 DoctorDb.class
+-rw-r--r-- 1 allwin.a 1049089 1204 Mar 20 09:54 Queries.class
+
+../SpringDemos/spring-doctorApp-jdbc/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:13 com/
+
+../SpringDemos/spring-doctorApp-jdbc/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 18:13 example/
+
+../SpringDemos/spring-doctorApp-jdbc/target/test-classes/com/example:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 566 Mar 19 18:13 SpringDoctorAppJdbcApplicationTests.class
+
+../SpringDemos/spring-greetapp-rest:
+total 28
+-rw-r--r-- 1 allwin.a 1049089   858 Mar 21 13:54 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 21 13:54 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 21 13:54 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1395 Mar 21 13:54 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 21 13:54 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 21 13:55 target/
+
+../SpringDemos/spring-greetapp-rest/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:54 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:54 test/
+
+../SpringDemos/spring-greetapp-rest/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:54 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:54 resources/
+
+../SpringDemos/spring-greetapp-rest/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:54 com/
+
+../SpringDemos/spring-greetapp-rest/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:56 greetapp/
+
+../SpringDemos/spring-greetapp-rest/src/main/java/com/greetapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 329 Mar 21 13:54 SpringGreetappRestApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 13:56 controlers/
+
+../SpringDemos/spring-greetapp-rest/src/main/java/com/greetapp/controlers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1130 Mar 21 14:59 GreetController.java
+
+../SpringDemos/spring-greetapp-rest/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 45 Mar 21 13:54 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 21 08:22 static/
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 21 08:22 templates/
+
+../SpringDemos/spring-greetapp-rest/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-greetapp-rest/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-greetapp-rest/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:54 java/
+
+../SpringDemos/spring-greetapp-rest/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:54 com/
+
+../SpringDemos/spring-greetapp-rest/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 13:54 greetapp/
+
+../SpringDemos/spring-greetapp-rest/src/test/java/com/greetapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 216 Mar 21 13:54 SpringGreetappRestApplicationTests.java
+
+../SpringDemos/spring-greetapp-rest/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:24 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:24 test-classes/
+
+../SpringDemos/spring-greetapp-rest/target/classes:
+total 1
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 21 14:24 META-INF/
+-rw-r--r-- 1 allwin.a 1049089 45 Mar 21 14:24 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 21 14:24 com/
+
+../SpringDemos/spring-greetapp-rest/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 172 Mar 22 14:18 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 14:24 maven/
+
+../SpringDemos/spring-greetapp-rest/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:24 com.greetapp/
+
+../SpringDemos/spring-greetapp-rest/target/classes/META-INF/maven/com.greetapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:24 spring-greetapp-rest/
+
+../SpringDemos/spring-greetapp-rest/target/classes/META-INF/maven/com.greetapp/spring-greetapp-rest:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  286 Mar 22 14:18 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1395 Mar 22 14:18 pom.xml
+
+../SpringDemos/spring-greetapp-rest/target/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:24 greetapp/
+
+../SpringDemos/spring-greetapp-rest/target/classes/com/greetapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 767 Mar 21 14:24 SpringGreetappRestApplication.class
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 14:24 controlers/
+
+../SpringDemos/spring-greetapp-rest/target/classes/com/greetapp/controlers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1845 Mar 21 14:59 GreetController.class
+
+../SpringDemos/spring-greetapp-rest/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:24 com/
+
+../SpringDemos/spring-greetapp-rest/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:24 greetapp/
+
+../SpringDemos/spring-greetapp-rest/target/test-classes/com/greetapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 565 Mar 21 14:24 SpringGreetappRestApplicationTests.class
+
+../SpringDemos/spring-insuranceapp-restmybatis:
+total 32
+-rw-r--r-- 1 allwin.a 1049089   939 Mar 21 15:38 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 21 15:38 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 21 15:38 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  2555 Mar 22 16:48 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 21 15:38 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 22 13:56 target/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:38 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:38 test/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:38 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:38 resources/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:38 com/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 16:56 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp:
+total 12
+-rw-r--r-- 1 allwin.a 1049089 355 Mar 21 15:38 SpringInsuranceappRestmybatisApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 16:56 controllers/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 11:43 exception/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:57 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:30 repository/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:32 service/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 3731 Mar 22 11:02 InsuranceController.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/exception:
+total 9
+-rw-r--r-- 1 allwin.a 1049089 4152 Mar 22 12:39 GlobalExceptionHandler.java
+-rw-r--r-- 1 allwin.a 1049089  114 Mar 22 12:07 InsuranceNotFoundException.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/model:
+total 16
+-rw-r--r-- 1 allwin.a 1049089 1295 Mar 22 12:07 ApiErrors.java
+-rw-r--r-- 1 allwin.a 1049089 1463 Mar 22 16:48 AppUser.java
+-rw-r--r-- 1 allwin.a 1049089 1428 Mar 22 17:20 AppUserMapper.java
+-rw-r--r-- 1 allwin.a 1049089 1628 Mar 21 15:01 Insurance.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/repository:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  444 Mar 22 16:48 IAppUserRepository.java
+-rw-r--r-- 1 allwin.a 1049089 1689 Mar 22 11:02 IInsuranceRepository.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/service:
+total 12
+-rw-r--r-- 1 allwin.a 1049089 1498 Mar 22 17:59 AppUserServiceImpl.java
+-rw-r--r-- 1 allwin.a 1049089  805 Mar 21 15:51 IInsuranceService.java
+-rw-r--r-- 1 allwin.a 1049089 1963 Mar 21 17:57 InsuranceServiceImpl.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 183 Mar 21 17:54 application.properties
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 10:06 static/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 10:06 templates/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:38 java/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:38 com/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:38 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/test/java/com/insuranceapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 231 Mar 21 15:38 SpringInsuranceappRestmybatisApplicationTests.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/target:
+total 23780
+drwxr-xr-x 1 allwin.a 1049089        0 Mar 22 16:48 classes/
+drwxr-xr-x 1 allwin.a 1049089        0 Mar 22 13:55 generated-sources/
+drwxr-xr-x 1 allwin.a 1049089        0 Mar 22 13:55 generated-test-sources/
+drwxr-xr-x 1 allwin.a 1049089        0 Mar 22 13:55 maven-archiver/
+drwxr-xr-x 1 allwin.a 1049089        0 Mar 22 13:55 maven-status/
+-rw-r--r-- 1 allwin.a 1049089 24328497 Mar 22 13:56 spring-insuranceapp-restmybatis-0.0.1-SNAPSHOT.jar
+-rw-r--r-- 1 allwin.a 1049089    13625 Mar 22 13:55 spring-insuranceapp-restmybatis-0.0.1-SNAPSHOT.jar.original
+drwxr-xr-x 1 allwin.a 1049089        0 Mar 22 13:55 surefire-reports/
+drwxr-xr-x 1 allwin.a 1049089        0 Mar 22 16:48 test-classes/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes:
+total 1
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:48 META-INF/
+-rw-r--r-- 1 allwin.a 1049089 183 Mar 22 16:48 application.properties
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:48 com/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 183 Mar 22 17:59 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:48 maven/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:48 com.insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/META-INF/maven/com.insuranceapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:48 spring-insuranceapp-restmybatis/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/META-INF/maven/com.insuranceapp/spring-insuranceapp-restmybatis:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  323 Mar 22 17:59 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 2555 Mar 22 17:59 pom.xml
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:48 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp:
+total 12
+-rw-r--r-- 1 allwin.a 1049089 808 Mar 22 16:48 SpringInsuranceappRestmybatisApplication.class
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:48 controllers/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:48 exception/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:57 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:48 repository/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:48 service/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/controllers:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 6536 Mar 22 16:48 InsuranceController.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/exception:
+total 9
+-rw-r--r-- 1 allwin.a 1049089 7224 Mar 22 16:48 GlobalExceptionHandler.class
+-rw-r--r-- 1 allwin.a 1049089  367 Mar 22 16:48 InsuranceNotFoundException.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/model:
+total 16
+-rw-r--r-- 1 allwin.a 1049089 2119 Mar 22 16:48 ApiErrors.class
+-rw-r--r-- 1 allwin.a 1049089 2580 Mar 22 16:48 AppUser.class
+-rw-r--r-- 1 allwin.a 1049089 2473 Mar 22 17:20 AppUserMapper.class
+-rw-r--r-- 1 allwin.a 1049089 2540 Mar 22 16:48 Insurance.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/repository:
+total 8
+-rw-r--r-- 1 allwin.a 1049089  624 Mar 22 16:48 IAppUserRepository.class
+-rw-r--r-- 1 allwin.a 1049089 2017 Mar 22 16:48 IInsuranceRepository.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/service:
+total 12
+-rw-r--r-- 1 allwin.a 1049089 1985 Mar 22 17:59 AppUserServiceImpl.class
+-rw-r--r-- 1 allwin.a 1049089 1286 Mar 22 16:48 IInsuranceService.class
+-rw-r--r-- 1 allwin.a 1049089 2482 Mar 22 16:48 InsuranceServiceImpl.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/generated-sources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 13:55 annotations/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/generated-sources/annotations:
+total 0
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/generated-test-sources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 13:55 test-annotations/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/generated-test-sources/test-annotations:
+total 0
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-archiver:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 94 Mar 22 13:55 pom.properties
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 13:55 maven-compiler-plugin/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 13:55 compile/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 13:55 testCompile/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 13:55 default-compile/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 4
+-rw-r--r-- 1 allwin.a 1049089    0 Mar 22 13:55 createdFiles.lst
+-rw-r--r-- 1 allwin.a 1049089 1279 Mar 22 13:55 inputFiles.lst
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin/testCompile:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 13:55 default-testCompile/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile:
+total 1
+-rw-r--r-- 1 allwin.a 1049089   0 Mar 22 13:55 createdFiles.lst
+-rw-r--r-- 1 allwin.a 1049089 159 Mar 22 13:55 inputFiles.lst
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/surefire-reports:
+total 28
+-rw-r--r-- 1 allwin.a 1049089 22546 Mar 22 13:55 TEST-com.insuranceapp.SpringInsuranceappRestmybatisApplicationTests.xml
+-rw-r--r-- 1 allwin.a 1049089   377 Mar 22 13:55 com.insuranceapp.SpringInsuranceappRestmybatisApplicationTests.txt
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:48 com/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:48 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/test-classes/com/insuranceapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 606 Mar 22 16:48 SpringInsuranceappRestmybatisApplicationTests.class
+
+../SpringDemos/spring-mvc-basic:
+total 32
+-rw-r--r-- 1 allwin.a 1049089   858 Mar 19 17:20 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 19 17:20 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 19 17:20 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1443 Mar 20 11:37 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 17:20 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 19 17:21 target/
+
+../SpringDemos/spring-mvc-basic/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:21 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:20 test/
+
+../SpringDemos/spring-mvc-basic/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:20 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:20 resources/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 10:32 webapp/
+
+../SpringDemos/spring-mvc-basic/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:20 com/
+
+../SpringDemos/spring-mvc-basic/src/main/java/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 10:07 example/
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/example:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 409 Mar 19 17:20 ServletInitializer.java
+-rw-r--r-- 1 allwin.a 1049089 320 Mar 19 17:20 SpringMvcBasicApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 10:07 controllers/
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/example/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 854 Mar 20 11:54 GreetController.java
+
+../SpringDemos/spring-mvc-basic/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 69 Mar 20 11:56 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 19 11:49 static/
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 19 11:49 templates/
+
+../SpringDemos/spring-mvc-basic/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-mvc-basic/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-mvc-basic/src/main/webapp:
+total 1
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 10:32 WEB-INF/
+-rw-r--r-- 1 allwin.a 1049089 332 Mar 19 17:52 index.jsp
+
+../SpringDemos/spring-mvc-basic/src/main/webapp/WEB-INF:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 10:32 views/
+
+../SpringDemos/spring-mvc-basic/src/main/webapp/WEB-INF/views:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 234 Mar 20 10:37 success.jsp
+
+../SpringDemos/spring-mvc-basic/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:20 java/
+
+../SpringDemos/spring-mvc-basic/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:20 com/
+
+../SpringDemos/spring-mvc-basic/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:20 example/
+
+../SpringDemos/spring-mvc-basic/src/test/java/com/example:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 211 Mar 19 17:20 SpringMvcBasicApplicationTests.java
+
+../SpringDemos/spring-mvc-basic/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:16 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:21 generated-sources/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:21 generated-test-sources/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:00 m2e-wtp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:16 test-classes/
+
+../SpringDemos/spring-mvc-basic/target/classes:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 69 Mar 21 14:16 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 21 14:16 com/
+
+../SpringDemos/spring-mvc-basic/target/classes/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:16 example/
+
+../SpringDemos/spring-mvc-basic/target/classes/com/example:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 910 Mar 21 14:16 ServletInitializer.class
+-rw-r--r-- 1 allwin.a 1049089 753 Mar 21 14:16 SpringMvcBasicApplication.class
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 14:16 controllers/
+
+../SpringDemos/spring-mvc-basic/target/classes/com/example/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1650 Mar 21 14:16 GreetController.class
+
+../SpringDemos/spring-mvc-basic/target/generated-sources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:21 annotations/
+
+../SpringDemos/spring-mvc-basic/target/generated-sources/annotations:
+total 0
+
+../SpringDemos/spring-mvc-basic/target/generated-test-sources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 19 17:21 test-annotations/
+
+../SpringDemos/spring-mvc-basic/target/generated-test-sources/test-annotations:
+total 0
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:00 web-resources/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:00 META-INF/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 168 Mar 22 14:18 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 12:00 maven/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:00 com.example/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:00 spring-mvc-basic/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources/META-INF/maven/com.example/spring-mvc-basic:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  273 Mar 22 14:18 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1443 Mar 22 14:18 pom.xml
+
+../SpringDemos/spring-mvc-basic/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:16 com/
+
+../SpringDemos/spring-mvc-basic/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:16 example/
+
+../SpringDemos/spring-mvc-basic/target/test-classes/com/example:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 551 Mar 21 14:16 SpringMvcBasicApplicationTests.class
+
+../SpringDemos/spring-mvc-doctorApplication:
+total 28
+-rw-r--r-- 1 allwin.a 1049089  1161 Mar 20 15:25 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 20 15:25 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 20 15:25 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1897 Mar 20 15:26 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 15:25 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 15:25 target/
+
+../SpringDemos/spring-mvc-doctorApplication/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:25 test/
+
+../SpringDemos/spring-mvc-doctorApplication/src/main:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:03 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:25 resources/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:46 webapp/
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java:
+total 28
+-rw-r--r-- 1 allwin.a 1049089   814 Mar 19 18:12 HELP.md
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 16:02 com/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 15:54 java/
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 19 18:12 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 19 18:12 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1537 Mar 19 18:12 pom.xml
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:53 doctor/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:25 example/
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/com/doctor:
+total 6
+-rw-r--r-- 1 allwin.a 1049089 409 Mar 20 16:01 ServletInitializer.java
+-rw-r--r-- 1 allwin.a 1049089 321 Mar 20 16:02 SpringMvcDoctorApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 14:32 controller/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 15:34 exceptions/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 15:34 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 15:34 repository/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 15:34 service/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 15:34 util/
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/com/doctor/controller:
+total 8
+-rw-r--r-- 1 allwin.a 1049089  990 Mar 20 14:46 AdminController.java
+-rw-r--r-- 1 allwin.a 1049089 1879 Mar 20 17:19 DoctorController.java
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/com/doctor/exceptions:
+total 2
+-rw-r--r-- 1 allwin.a 1049089 231 Mar 20 15:52 DoctorNotFoundException.java
+-rw-r--r-- 1 allwin.a 1049089 217 Mar 20 15:52 IdNotFoundException.java
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/com/doctor/model:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 2392 Mar 20 15:53 Doctor.java
+-rw-r--r-- 1 allwin.a 1049089  434 Mar 20 15:53 Specialization.java
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/com/doctor/repository:
+total 12
+-rw-r--r-- 1 allwin.a 1049089  710 Mar 20 15:53 DoctorMapper.java
+-rw-r--r-- 1 allwin.a 1049089 3332 Mar 20 15:53 DoctorRepositoryImpl.java
+-rw-r--r-- 1 allwin.a 1049089  704 Mar 20 15:53 IDoctorRepository.java
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/com/doctor/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2528 Mar 20 15:53 DoctorServiceImpl.java
+-rw-r--r-- 1 allwin.a 1049089 1034 Mar 20 15:53 IDoctorService.java
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/com/doctor/util:
+total 8
+-rw-r--r-- 1 allwin.a 1049089  605 Mar 20 15:53 DoctorDb.java
+-rw-r--r-- 1 allwin.a 1049089 1234 Mar 20 15:53 Queries.java
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/com/example:
+total 2
+-rw-r--r-- 1 allwin.a 1049089 410 Mar 20 15:25 ServletInitializer.java
+-rw-r--r-- 1 allwin.a 1049089 322 Mar 20 15:25 SpringMvcDoctorApplication.java
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:54 com/
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:34 example/
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/java/java/com/example:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 221 Mar 20 15:54 SpringDoctorAppJdbcApplicationTests.java
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 249 Mar 20 16:01 application.properties
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 09:52 static/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 09:52 templates/
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/webapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:00 WEB-INF/
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/webapp/WEB-INF:
+total 8
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 17:09 views/
+-rw-r--r-- 1 allwin.a 1049089 663 Mar 20 15:18 web.xml
+
+../SpringDemos/spring-mvc-doctorApplication/src/main/webapp/WEB-INF/views:
+total 18
+-rw-r--r-- 1 allwin.a 1049089 584 Mar 20 17:09 addDoctorform.jsp
+-rw-r--r-- 1 allwin.a 1049089 366 Mar 20 14:46 admin.jsp
+-rw-r--r-- 1 allwin.a 1049089 219 Mar 15 12:15 deleteDoctorform.jsp
+-rw-r--r-- 1 allwin.a 1049089 842 Mar 18 10:20 editDoctorform.jsp
+-rw-r--r-- 1 allwin.a 1049089 712 Mar 18 10:20 hello.jsp
+-rw-r--r-- 1 allwin.a 1049089 504 Mar 20 12:48 home.jsp
+-rw-r--r-- 1 allwin.a 1049089 252 Mar 20 17:10 index.jsp
+-rw-r--r-- 1 allwin.a 1049089 426 Mar 20 14:46 login.jsp
+-rw-r--r-- 1 allwin.a 1049089 221 Mar 20 17:10 updateDoctor.jsp
+
+../SpringDemos/spring-mvc-doctorApplication/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:25 java/
+
+../SpringDemos/spring-mvc-doctorApplication/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:25 com/
+
+../SpringDemos/spring-mvc-doctorApplication/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:25 example/
+
+../SpringDemos/spring-mvc-doctorApplication/src/test/java/com/example:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 212 Mar 20 15:25 SpringMvcDoctorApplicationTests.java
+
+../SpringDemos/spring-mvc-doctorApplication/target:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 m2e-wtp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 test-classes/
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes:
+total 29
+-rw-r--r-- 1 allwin.a 1049089   814 Mar 19 18:12 HELP.md
+-rw-r--r-- 1 allwin.a 1049089   249 Mar 20 16:45 application.properties
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 16:45 com/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 16:45 java/
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 19 18:12 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 19 18:12 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1537 Mar 19 18:12 pom.xml
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:53 doctor/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 example/
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/com/doctor:
+total 12
+-rw-r--r-- 1 allwin.a 1049089 908 Mar 20 16:45 ServletInitializer.class
+-rw-r--r-- 1 allwin.a 1049089 754 Mar 20 16:45 SpringMvcDoctorApplication.class
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 16:45 controller/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 16:45 exceptions/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 16:45 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 16:45 repository/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 16:45 service/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 16:45 util/
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/com/doctor/controller:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1619 Mar 20 16:45 AdminController.class
+-rw-r--r-- 1 allwin.a 1049089 2808 Mar 20 17:19 DoctorController.class
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/com/doctor/exceptions:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 516 Mar 20 16:45 DoctorNotFoundException.class
+-rw-r--r-- 1 allwin.a 1049089 504 Mar 20 16:45 IdNotFoundException.class
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/com/doctor/model:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 3078 Mar 20 16:45 Doctor.class
+-rw-r--r-- 1 allwin.a 1049089 1682 Mar 20 16:45 Specialization.class
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/com/doctor/repository:
+total 16
+-rw-r--r-- 1 allwin.a 1049089 1571 Mar 20 16:45 DoctorMapper.class
+-rw-r--r-- 1 allwin.a 1049089 4468 Mar 20 16:45 DoctorRepositoryImpl.class
+-rw-r--r-- 1 allwin.a 1049089 1060 Mar 20 16:45 IDoctorRepository.class
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/com/doctor/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2743 Mar 20 16:45 DoctorServiceImpl.class
+-rw-r--r-- 1 allwin.a 1049089 1215 Mar 20 16:45 IDoctorService.class
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/com/doctor/util:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1077 Mar 20 16:45 DoctorDb.class
+-rw-r--r-- 1 allwin.a 1049089 1204 Mar 20 16:45 Queries.class
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/com/example:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 911 Mar 20 16:45 ServletInitializer.class
+-rw-r--r-- 1 allwin.a 1049089 756 Mar 20 16:45 SpringMvcDoctorApplication.class
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 com/
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 example/
+
+../SpringDemos/spring-mvc-doctorApplication/target/classes/java/com/example:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 873 Mar 20 16:45 SpringDoctorAppJdbcApplicationTests.class
+
+../SpringDemos/spring-mvc-doctorApplication/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 web-resources/
+
+../SpringDemos/spring-mvc-doctorApplication/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 META-INF/
+
+../SpringDemos/spring-mvc-doctorApplication/target/m2e-wtp/web-resources/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 180 Mar 20 16:45 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 16:45 maven/
+
+../SpringDemos/spring-mvc-doctorApplication/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 com.example/
+
+../SpringDemos/spring-mvc-doctorApplication/target/m2e-wtp/web-resources/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 spring-mvc-doctorApplication/
+
+../SpringDemos/spring-mvc-doctorApplication/target/m2e-wtp/web-resources/META-INF/maven/com.example/spring-mvc-doctorApplication:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  309 Mar 20 16:45 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1897 Mar 20 16:45 pom.xml
+
+../SpringDemos/spring-mvc-doctorApplication/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 com/
+
+../SpringDemos/spring-mvc-doctorApplication/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 16:45 example/
+
+../SpringDemos/spring-mvc-doctorApplication/target/test-classes/com/example:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 554 Mar 20 16:45 SpringMvcDoctorApplicationTests.class
+
+../SpringDemos/spring-mvc-doctorapp:
+total 32
+-rw-r--r-- 1 allwin.a 1049089  1161 Mar 20 15:23 HELP.md
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 15:34 bin/
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 20 15:23 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 20 15:23 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1853 Mar 20 15:23 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 12:20 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 15:31 target/
+
+../SpringDemos/spring-mvc-doctorapp/bin:
+total 28
+-rw-r--r-- 1 allwin.a 1049089  1161 Mar 20 12:20 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 20 12:20 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 20 12:20 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1853 Mar 20 12:20 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 15:26 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 15:26 target/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 test/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:31 resources/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 webapp/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 com/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 src/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 doctor/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:31 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/com/doctor:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 controller/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 exceptions/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 model/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 repository/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 service/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 util/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/com/doctor/controller:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/com/doctor/exceptions:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/com/doctor/model:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/com/doctor/repository:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/com/doctor/service:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/com/doctor/util:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/com/doctorapp:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1558 Mar 20 12:21 ServletInitializer.class
+-rw-r--r-- 1 allwin.a 1049089 1168 Mar 20 12:21 SpringMvcDoctorappApplication.class
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 main/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/java/src/main:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 45 Mar 20 12:20 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 20 15:26 templates/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/webapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 WEB-INF/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/webapp/WEB-INF:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 lib/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:34 views/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/webapp/WEB-INF/lib:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/main/webapp/WEB-INF/views:
+total 18
+-rw-r--r-- 1 allwin.a 1049089 586 Mar 18 11:45 addDoctorform.jsp
+-rw-r--r-- 1 allwin.a 1049089 366 Mar 20 14:46 admindash.jsp
+-rw-r--r-- 1 allwin.a 1049089 219 Mar 15 12:15 deleteDoctorform.jsp
+-rw-r--r-- 1 allwin.a 1049089 842 Mar 18 10:20 editDoctorform.jsp
+-rw-r--r-- 1 allwin.a 1049089 712 Mar 18 10:20 hello.jsp
+-rw-r--r-- 1 allwin.a 1049089 504 Mar 20 12:48 home.jsp
+-rw-r--r-- 1 allwin.a 1049089 252 Mar 18 10:59 index.jsp
+-rw-r--r-- 1 allwin.a 1049089 426 Mar 20 14:46 login.jsp
+-rw-r--r-- 1 allwin.a 1049089 219 Mar 15 16:26 updateDoctor.jsp
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 java/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 com/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:31 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/bin/src/test/java/com/doctorapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1075 Mar 20 12:21 SpringMvcDoctorappApplicationTests.class
+
+../SpringDemos/spring-mvc-doctorapp/bin/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 m2e-wtp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 test-classes/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 com/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 src/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 doctor/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/com/doctor:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 controller/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 exceptions/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 model/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 repository/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 service/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 util/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/com/doctor/controller:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/com/doctor/exceptions:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/com/doctor/model:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/com/doctor/repository:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/com/doctor/service:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/com/doctor/util:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/com/doctorapp:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 main/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/classes/src/main:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 web-resources/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 META-INF/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 maven/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 com.example/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/m2e-wtp/web-resources/META-INF/maven/com.example:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 com/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:26 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/bin/target/test-classes/com/doctorapp:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:21 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:20 test/
+
+../SpringDemos/spring-mvc-doctorapp/src/main:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 13:51 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:23 resources/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:46 webapp/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java:
+total 28
+-rw-r--r-- 1 allwin.a 1049089   814 Mar 19 18:12 HELP.md
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 12:56 com/
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 19 18:12 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 19 18:12 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1537 Mar 19 18:12 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 12:24 src/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:45 doctor/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:23 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctor:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 803 Mar 20 12:25 SpringDoctorAppJdbcApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 12:24 exceptions/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 12:24 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 12:24 repository/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 12:24 service/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 12:24 util/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctor/exceptions:
+total 2
+-rw-r--r-- 1 allwin.a 1049089 231 Mar 20 12:25 DoctorNotFoundException.java
+-rw-r--r-- 1 allwin.a 1049089 217 Mar 20 12:25 IdNotFoundException.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctor/model:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 2392 Mar 20 12:25 Doctor.java
+-rw-r--r-- 1 allwin.a 1049089  434 Mar 20 12:25 Specialization.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctor/repository:
+total 12
+-rw-r--r-- 1 allwin.a 1049089  711 Mar 20 14:46 DoctorMapper.java
+-rw-r--r-- 1 allwin.a 1049089 3332 Mar 20 12:25 DoctorRepositoryImpl.java
+-rw-r--r-- 1 allwin.a 1049089  704 Mar 20 12:25 IDoctorRepository.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctor/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2528 Mar 20 12:26 DoctorServiceImpl.java
+-rw-r--r-- 1 allwin.a 1049089 1034 Mar 20 12:26 IDoctorService.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctor/util:
+total 8
+-rw-r--r-- 1 allwin.a 1049089  605 Mar 20 12:26 DoctorDb.java
+-rw-r--r-- 1 allwin.a 1049089 1234 Mar 20 12:26 Queries.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctorapp:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 415 Mar 20 15:23 ServletInitializer.java
+-rw-r--r-- 1 allwin.a 1049089 330 Mar 20 15:23 SpringMvcDoctorappApplication.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:24 main/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/src/main:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 45 Mar 20 15:23 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 20 06:37 static/
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 20 06:37 templates/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/src/main/webapp:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:20 java/
+
+../SpringDemos/spring-mvc-doctorapp/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 12:20 com/
+
+../SpringDemos/spring-mvc-doctorapp/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:23 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/src/test/java/com/doctorapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 217 Mar 20 15:23 SpringMvcDoctorappApplicationTests.java
+
+../SpringDemos/spring-mvc-doctorapp/target:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:41 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:17 m2e-wtp/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:41 test-classes/
+
+../SpringDemos/spring-mvc-doctorapp/target/classes:
+total 29
+-rw-r--r-- 1 allwin.a 1049089   814 Mar 19 18:12 HELP.md
+-rw-r--r-- 1 allwin.a 1049089    45 Mar 20 15:41 application.properties
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 15:41 com/
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 19 18:12 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 19 18:12 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1537 Mar 19 18:12 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 20 15:41 src/
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:45 doctor/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:41 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctor:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1385 Mar 20 15:41 SpringDoctorAppJdbcApplication.class
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 20 15:41 exceptions/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 20 15:41 model/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 20 15:41 repository/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 20 15:41 service/
+drwxr-xr-x 1 allwin.a 1049089    0 Mar 20 15:41 util/
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctor/exceptions:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 516 Mar 20 15:41 DoctorNotFoundException.class
+-rw-r--r-- 1 allwin.a 1049089 504 Mar 20 15:41 IdNotFoundException.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctor/model:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 3078 Mar 20 15:41 Doctor.class
+-rw-r--r-- 1 allwin.a 1049089 1682 Mar 20 15:41 Specialization.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctor/repository:
+total 16
+-rw-r--r-- 1 allwin.a 1049089 1572 Mar 20 15:41 DoctorMapper.class
+-rw-r--r-- 1 allwin.a 1049089 4468 Mar 20 15:41 DoctorRepositoryImpl.class
+-rw-r--r-- 1 allwin.a 1049089 1060 Mar 20 15:41 IDoctorRepository.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctor/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 2743 Mar 20 15:41 DoctorServiceImpl.class
+-rw-r--r-- 1 allwin.a 1049089 1215 Mar 20 15:41 IDoctorService.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctor/util:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1077 Mar 20 15:41 DoctorDb.class
+-rw-r--r-- 1 allwin.a 1049089 1204 Mar 20 15:41 Queries.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctorapp:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 920 Mar 20 15:41 ServletInitializer.class
+-rw-r--r-- 1 allwin.a 1049089 769 Mar 20 15:41 SpringMvcDoctorappApplication.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:41 main/
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/src/main:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:17 web-resources/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:17 META-INF/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 172 Mar 20 16:45 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 20 15:17 maven/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:17 com.example/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:17 spring-mvc-doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources/META-INF/maven/com.example/spring-mvc-doctorapp:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  285 Mar 20 15:41 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1853 Mar 20 15:41 pom.xml
+
+../SpringDemos/spring-mvc-doctorapp/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:41 com/
+
+../SpringDemos/spring-mvc-doctorapp/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 20 15:41 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/target/test-classes/com/doctorapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 567 Mar 20 15:41 SpringMvcDoctorappApplicationTests.class
+
+../SpringDemos/spring-productapp-mybatis:
+total 28
+-rw-r--r-- 1 allwin.a 1049089   592 Mar 21 10:33 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 21 10:33 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 21 10:33 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  2128 Mar 21 19:20 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 21 10:33 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 21 10:34 target/
+
+../SpringDemos/spring-productapp-mybatis/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 10:33 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 10:33 test/
+
+../SpringDemos/spring-productapp-mybatis/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 10:33 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 10:33 resources/
+
+../SpringDemos/spring-productapp-mybatis/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 10:33 com/
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 19:15 productapp/
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp:
+total 4
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 11:36 Repository/
+-rw-r--r-- 1 allwin.a 1049089 540 Mar 21 19:34 SpringProductappMybatisApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:15 controllers/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 10:45 exception/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 10:38 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 10:40 service/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 10:37 util/
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/Repository:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1477 Mar 21 19:47 IProductRepository.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 948 Mar 21 19:34 ProductController.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/exception:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 108 Mar 21 11:29 ProductNotFoundException.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1417 Mar 21 19:16 Product.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089  785 Mar 21 19:34 IProductService.java
+-rw-r--r-- 1 allwin.a 1049089 2735 Mar 21 19:45 ProductServiceImpl.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/util:
+total 0
+
+../SpringDemos/spring-productapp-mybatis/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 178 Mar 21 12:03 application.properties
+
+../SpringDemos/spring-productapp-mybatis/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 10:33 java/
+
+../SpringDemos/spring-productapp-mybatis/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 10:33 com/
+
+../SpringDemos/spring-productapp-mybatis/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 10:33 productapp/
+
+../SpringDemos/spring-productapp-mybatis/src/test/java/com/productapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 223 Mar 21 10:33 SpringProductappMybatisApplicationTests.java
+
+../SpringDemos/spring-productapp-mybatis/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 19:20 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 19:20 test-classes/
+
+../SpringDemos/spring-productapp-mybatis/target/classes:
+total 1
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:20 META-INF/
+-rw-r--r-- 1 allwin.a 1049089 178 Mar 21 19:20 application.properties
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:20 com/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 177 Mar 22 14:18 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:20 maven/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 19:20 com.productapp/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/META-INF/maven/com.productapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 19:20 spring-productapp-mybatis/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/META-INF/maven/com.productapp/spring-productapp-mybatis:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  303 Mar 22 14:18 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 2128 Mar 22 14:18 pom.xml
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 19:20 productapp/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp:
+total 4
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:20 Repository/
+-rw-r--r-- 1 allwin.a 1049089 786 Mar 21 19:34 SpringProductappMybatisApplication.class
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:20 controllers/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:20 exception/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:20 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:20 service/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 19:20 util/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/Repository:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1952 Mar 21 19:47 IProductRepository.class
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1126 Mar 21 19:34 ProductController.class
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/exception:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 357 Mar 21 19:20 ProductNotFoundException.class
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2215 Mar 21 19:20 Product.class
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/service:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 1200 Mar 21 19:34 IProductService.class
+-rw-r--r-- 1 allwin.a 1049089 2378 Mar 21 19:45 ProductServiceImpl.class
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/util:
+total 0
+
+../SpringDemos/spring-productapp-mybatis/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 19:20 com/
+
+../SpringDemos/spring-productapp-mybatis/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 19:20 productapp/
+
+../SpringDemos/spring-productapp-mybatis/target/test-classes/com/productapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 584 Mar 21 19:20 SpringProductappMybatisApplicationTests.class
+
+../SpringDemos/spring-security-inmem:
+total 28
+-rw-r--r-- 1 allwin.a 1049089  1217 Mar 22 14:16 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 22 14:16 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 22 14:16 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1686 Mar 22 14:16 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 22 14:16 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 22 14:18 target/
+
+../SpringDemos/spring-security-inmem/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:16 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:16 test/
+
+../SpringDemos/spring-security-inmem/src/main:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:16 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:33 resources/
+
+../SpringDemos/spring-security-inmem/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:18 com/
+
+../SpringDemos/spring-security-inmem/src/main/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:18 example/
+
+../SpringDemos/spring-security-inmem/src/main/java/com/example:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 330 Mar 22 14:16 SpringSecurityInmemApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:18 greetapp/
+
+../SpringDemos/spring-security-inmem/src/main/java/com/example/greetapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:43 config/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:18 controllers/
+
+../SpringDemos/spring-security-inmem/src/main/java/com/example/greetapp/config:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1934 Mar 22 16:18 WebConfig.java
+
+../SpringDemos/spring-security-inmem/src/main/java/com/example/greetapp/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 659 Mar 22 16:18 GreetController.java
+
+../SpringDemos/spring-security-inmem/src/main/resources:
+total 2
+-rw-r--r-- 1 allwin.a 1049089 63 Mar 22 14:25 application.properties
+-rw-r--r-- 1 allwin.a 1049089 97 Mar 22 14:59 application.yml
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 22 08:46 static/
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 22 08:46 templates/
+
+../SpringDemos/spring-security-inmem/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-security-inmem/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-security-inmem/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:16 java/
+
+../SpringDemos/spring-security-inmem/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:16 com/
+
+../SpringDemos/spring-security-inmem/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:16 example/
+
+../SpringDemos/spring-security-inmem/src/test/java/com/example:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 216 Mar 22 14:16 SpringSecurityInmemApplicationTests.java
+
+../SpringDemos/spring-security-inmem/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:33 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:30 test-classes/
+
+../SpringDemos/spring-security-inmem/target/classes:
+total 2
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 22 14:30 META-INF/
+-rw-r--r-- 1 allwin.a 1049089 63 Mar 22 14:30 application.properties
+-rw-r--r-- 1 allwin.a 1049089 97 Mar 22 14:59 application.yml
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 22 16:18 com/
+
+../SpringDemos/spring-security-inmem/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 173 Mar 22 14:30 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 14:30 maven/
+
+../SpringDemos/spring-security-inmem/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:30 com.example/
+
+../SpringDemos/spring-security-inmem/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:30 spring-security-inmem/
+
+../SpringDemos/spring-security-inmem/target/classes/META-INF/maven/com.example/spring-security-inmem:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  288 Mar 22 14:30 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1686 Mar 22 14:30 pom.xml
+
+../SpringDemos/spring-security-inmem/target/classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:18 example/
+
+../SpringDemos/spring-security-inmem/target/classes/com/example:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 768 Mar 22 14:30 SpringSecurityInmemApplication.class
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 22 16:18 greetapp/
+
+../SpringDemos/spring-security-inmem/target/classes/com/example/greetapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:18 config/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 16:18 controllers/
+
+../SpringDemos/spring-security-inmem/target/classes/com/example/greetapp/config:
+total 8
+-rw-r--r-- 1 allwin.a 1049089 6540 Mar 22 16:18 WebConfig.class
+
+../SpringDemos/spring-security-inmem/target/classes/com/example/greetapp/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1164 Mar 22 16:18 GreetController.class
+
+../SpringDemos/spring-security-inmem/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:30 com/
+
+../SpringDemos/spring-security-inmem/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 22 14:30 example/
+
+../SpringDemos/spring-security-inmem/target/test-classes/com/example:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 566 Mar 22 14:30 SpringSecurityInmemApplicationTests.class
+
+../SpringDemos/spring-voya:
+total 28
+-rw-r--r-- 1 allwin.a 1049089   858 Mar 21 14:57 HELP.md
+-rwxr-xr-x 1 allwin.a 1049089 11290 Mar 21 14:57 mvnw*
+-rw-r--r-- 1 allwin.a 1049089  7592 Mar 21 14:57 mvnw.cmd
+-rw-r--r-- 1 allwin.a 1049089  1381 Mar 21 14:57 pom.xml
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 21 14:57 src/
+drwxr-xr-x 1 allwin.a 1049089     0 Mar 21 14:57 target/
+
+../SpringDemos/spring-voya/src:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 main/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 test/
+
+../SpringDemos/spring-voya/src/main:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 java/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 resources/
+
+../SpringDemos/spring-voya/src/main/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 com/
+
+../SpringDemos/spring-voya/src/main/java/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:01 insuranceapp/
+
+../SpringDemos/spring-voya/src/main/java/com/insuranceapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 317 Mar 21 14:57 SpringVoyaApplication.java
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 15:16 controllers/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 14:59 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 15:03 service/
+
+../SpringDemos/spring-voya/src/main/java/com/insuranceapp/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 821 Mar 21 15:23 InsuranceController.java
+
+../SpringDemos/spring-voya/src/main/java/com/insuranceapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1628 Mar 21 15:01 Insurance.java
+
+../SpringDemos/spring-voya/src/main/java/com/insuranceapp/service:
+total 5
+-rw-r--r-- 1 allwin.a 1049089 334 Mar 21 15:26 IInsuranceService.java
+-rw-r--r-- 1 allwin.a 1049089 873 Mar 21 15:26 InsuranceServiceImpl.java
+
+../SpringDemos/spring-voya/src/main/resources:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 36 Mar 21 14:57 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 21 09:26 static/
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 21 09:26 templates/
+
+../SpringDemos/spring-voya/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-voya/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-voya/src/test:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 java/
+
+../SpringDemos/spring-voya/src/test/java:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 com/
+
+../SpringDemos/spring-voya/src/test/java/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 insuranceapp/
+
+../SpringDemos/spring-voya/src/test/java/com/insuranceapp:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 212 Mar 21 14:57 SpringVoyaApplicationTests.java
+
+../SpringDemos/spring-voya/target:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 classes/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 test-classes/
+
+../SpringDemos/spring-voya/target/classes:
+total 1
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 21 14:57 META-INF/
+-rw-r--r-- 1 allwin.a 1049089 36 Mar 21 14:57 application.properties
+drwxr-xr-x 1 allwin.a 1049089  0 Mar 21 14:57 com/
+
+../SpringDemos/spring-voya/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 163 Mar 22 09:52 MANIFEST.MF
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 14:57 maven/
+
+../SpringDemos/spring-voya/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 com.insuranceapp/
+
+../SpringDemos/spring-voya/target/classes/META-INF/maven/com.insuranceapp:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 spring-voya/
+
+../SpringDemos/spring-voya/target/classes/META-INF/maven/com.insuranceapp/spring-voya:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  263 Mar 22 09:52 pom.properties
+-rw-r--r-- 1 allwin.a 1049089 1381 Mar 22 09:52 pom.xml
+
+../SpringDemos/spring-voya/target/classes/com:
+total 4
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 15:01 insuranceapp/
+
+../SpringDemos/spring-voya/target/classes/com/insuranceapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 751 Mar 21 14:57 SpringVoyaApplication.class
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 15:16 controllers/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 14:59 model/
+drwxr-xr-x 1 allwin.a 1049089   0 Mar 21 15:03 service/
+
+../SpringDemos/spring-voya/target/classes/com/insuranceapp/controllers:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 1305 Mar 21 15:23 InsuranceController.class
+
+../SpringDemos/spring-voya/target/classes/com/insuranceapp/model:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 2540 Mar 21 15:01 Insurance.class
+
+../SpringDemos/spring-voya/target/classes/com/insuranceapp/service:
+total 5
+-rw-r--r-- 1 allwin.a 1049089  440 Mar 21 15:26 IInsuranceService.class
+-rw-r--r-- 1 allwin.a 1049089 1878 Mar 21 15:26 InsuranceServiceImpl.class
+
+../SpringDemos/spring-voya/target/test-classes:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 com/
+
+../SpringDemos/spring-voya/target/test-classes/com:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 21 14:57 insuranceapp/
+
+../SpringDemos/spring-voya/target/test-classes/com/insuranceapp:
+total 4
+-rw-r--r-- 1 allwin.a 1049089 549 Mar 21 14:57 SpringVoyaApplicationTests.class
+
+../training:
+total 0
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 14:56 courses/
+drwxr-xr-x 1 allwin.a 1049089 0 Mar 25 15:33 demos/
+
+../training/courses:
+total 0
+
+../training/demos:
+total 1
+-rw-r--r-- 1 allwin.a 1049089 187 Mar 25 15:38 test1.txt
+-rw-r--r-- 1 allwin.a 1049089   0 Mar 25 15:33 test1.txty
